@@ -27,11 +27,13 @@ Welcome to my GitHub profile! I'm a passionate developer with over 5 years of ex
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 
-### 🌐 Connect with Me
-- LinkedIn: [Pius Businge](https://linkedin.com/in/piusbusinge)
-- Twitter: [@busingepius](https://twitter.com/@busingepius)
-- StackOverflow: [busingepius](https://stackoverflow.com/users/busingepius)
-- Blog: [My Articles](https://pbusinge.netlify.app)
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busingepius)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/busingepius)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id)
+[![Blog](https://img.shields.io/badge/Blog-My%20Articles-blue?style=for-the-badge)](https://yourblogurl.com)
+
 
 ### 🏆 GitHub Stats
 <p align="center">
