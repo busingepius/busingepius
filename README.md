@@ -40,8 +40,3 @@ Welcome to my GitHub profile! I'm a passionate developer with over 5 years of ex
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busingepius&langs_count=8&layout=compact&theme=radical&hide=php,ruby&custom_title=Top%20Languages&include=Go,Java,JavaScript,HTML,CSS" alt="Top Languages" />
 </p>
-
-![GitHub followers](https://img.shields.io/github/followers/busingepius?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/busingepius?label=Stars&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/busingepius?style=social)
-
