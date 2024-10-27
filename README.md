@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over 5 years of ex
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=busingepius&theme=radical" alt="Pius Businge's GitHub streaks" />
 </p>
 
-### 💡 Top Languages
+<!-- ### 💡 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busingepius&langs_count=8&layout=compact&theme=radical&hide=php,ruby&custom_title=Top%20Languages&include=Go,Java,JavaScript,HTML,CSS" alt="Top Languages" />
-</p>
+</p> -->
