@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm a passionate developer with over 5 years of ex
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piusbusinge)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/busingepius)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22498977)
-[![Blog](https://img.shields.io/badge/Blog-My%20Articles-blue?style=for-the-badge)]([https://yourblogurl.com](https://medium.com/@busingepius))
 
 
 ### 🏆 GitHub Stats
