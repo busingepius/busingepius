@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pius Businge. 
 
-### 5+ Years of Experience | Senior Software Engineer | Masters in Computer Science (In Progress) 
+### 5+ Years of Experience | Senior Software Engineer | Masters in Computer Science (In Progress)   
 
 Welcome to my GitHub profile! I'm a passionate developer with over 5 years of experience, specializing in **full-stack development**, **cloud solutions**, and **mobile applications**. I thrive on creating innovative solutions that merge technology with impactful, user-centered design.
            
