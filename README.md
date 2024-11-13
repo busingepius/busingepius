@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pius Businge. 
+# Hi 👋, I'm Pius Businge.   
 
 ### 5+ Years of Experience | Senior Software Engineer | Masters in Computer Science (In Progress)      
 
