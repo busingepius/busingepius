@@ -3,7 +3,7 @@
 ### 5+ Years of Experience | Senior Software Engineer | Masters in Computer Science (In Progress)      
 
 Welcome to my GitHub profile! I'm a passionate developer with over 5 years of experience, specializing in **full-stack development**, **cloud solutions**, and **mobile applications**. I thrive on creating innovative solutions that merge technology with impactful, user-centered design.   
-            
+              
 ### 🌟 About Me.        
 - 🔭 I’m currently working on.  **cutting-edge projects in transport, fintech, and e-learning domains**.
 - 🌱 Pursuing my **Master's in Computer Science** to deepen my expertise.
