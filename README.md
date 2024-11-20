@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over 5 years of ex
 ### 🚀 Projects & Achievements
 - Created a **real-time betting app** with live streaming, betting on sports, eSports, and casino games.
 - Led the development of **speech recognition stream processing**, improving **accuracy and scalability**.
-- Developed an advanced **rider delivery optimization system**.
+- Developed an advanced **rider delivery optimization system**.   
 - Check out my projects at: [My Portfolio](https://www.qixem.com)
 
 <!-- ### 🛠 Tech Stack
