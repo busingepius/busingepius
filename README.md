@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over 5 years of ex
 - 🔭 I’m currently working on.  **cutting-edge projects in transport, fintech, and e-learning domains**.
 - 🌱 Pursuing my **Master's in Computer Science** to deepen my expertise.  
 - 📝 I love sharing knowledge! Check out my articles at [My Blog](https://www.qixem.com).    
-- 💬 Ask me about **Flutter, Java, Kubernetes, and DevOps**.   
+- 💬 Ask me about **Flutter, Java, Kubernetes, and DevOps**.      
 - 🌍 I’m committed to sustainable development, with a background in **GIS-based water management**.
 
 ### 🚀 Projects & Achievements
